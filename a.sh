@@ -1,9 +1,9 @@
 #!bin/bash
-a=3
+a=10
 if [ $a -gt 5 ]
 then 
 echo "A is greter"
 else 
 echo "A is lesser"
-exit 1
+exit 0
 fi
