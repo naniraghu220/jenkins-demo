@@ -1,9 +1,9 @@
 #!bin/bash
-b=3
-if [ $b -gt 5 ]
+c=80
+if [ $c -gt 47 ]
 then 
-echo "B is greter"
+echo "c is greter"
 else 
-echo "B is lesser"
-exit 1
+echo "c is lesser"
+
 fi
